@@ -1,0 +1,16 @@
+.user-menu {
+    background: lightgray;
+    font-weight: bold;
+}
+
+.table > thead > tr > th {
+    text-align: center;
+}
+
+.table-action {
+    text-align: center;
+}
+
+.close > span {
+    font-size: 25px;
+}
